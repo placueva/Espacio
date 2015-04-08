@@ -4,10 +4,11 @@ LO vuelvo a modificar
 
 ya he tomado cafe
 
-<<<<<<< HEAD
+
 The blues brothers 2
 =======
 hola pablo
 
 ya semos socios
->>>>>>> 5e27c87c81a1a70e1ea620add1272e039401612c
+
+otra modificacion
